@@ -1,5 +1,9 @@
-# API-3.0-PHP
+# Cielo-API-3.0-PHP
 
+SDK API-3.0 PHP
+
+Este é um dropin replacement package para a dependencia do composer developercielo/api-3.0-php.
+Basta alterar o pacote developercielo/api-3.0-php para saylorgabriel/cielo-API-3.0-php e executar o update.
 SDK API-3.0 PHP
 
 ## Principais recursos
